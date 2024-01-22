@@ -1,0 +1,360 @@
+// ******************************************************************************
+// * This is an automatically generated file containing the ribbon resource for *
+// * your application.                                                          *
+// ******************************************************************************
+
+#include ".\ribbonres.h"
+
+STRINGTABLE 
+BEGIN
+    cmdTabHome_LabelTitle_RESID L"\x30db\x30fc\x30e0" /* LabelTitle cmdTabHome_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdGroupClipboard_LabelTitle_RESID L"\x30af\x30ea\x30c3\x30d7\x30dc\x30fc\x30c9" /* LabelTitle cmdGroupClipboard_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdPaste_LabelTitle_RESID L"\x8cbc\x308a\x4ed8\x3051" /* LabelTitle cmdPaste_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdPaste_TooltipTitle_RESID L"\x8cbc\x308a\x4ed8\x3051" /* TooltipTitle cmdPaste_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdPaste_TooltipDescription_RESID L"\x8cbc\x308a\x4ed8\x3051" /* TooltipDescription cmdPaste_TooltipDescription_RESID: (null) */
+END
+
+cmdPaste_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\Paste.bmp" /* LargeImages cmdPaste_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdCut_LabelTitle_RESID L"\x5207\x308a\x53d6\x308a" /* LabelTitle cmdCut_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCut_TooltipTitle_RESID L"\x5207\x308a\x53d6\x308a" /* TooltipTitle cmdCut_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCut_TooltipDescription_RESID L"\x5207\x308a\x53d6\x308a" /* TooltipDescription cmdCut_TooltipDescription_RESID: (null) */
+END
+
+cmdCut_SmallImages_RESID    BITMAP    "..\\TouchMind\\res\\Cut.bmp" /* SmallImages cmdCut_SmallImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdCopy_LabelTitle_RESID L"\x30b3\x30d4\x30fc" /* LabelTitle cmdCopy_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCopy_TooltipTitle_RESID L"\x30b3\x30d4\x30fc" /* TooltipTitle cmdCopy_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCopy_TooltipDescription_RESID L"\x30b3\x30d4\x30fc" /* TooltipDescription cmdCopy_TooltipDescription_RESID: (null) */
+END
+
+cmdCopy_SmallImages_RESID    BITMAP    "..\\TouchMind\\res\\Copy.bmp" /* SmallImages cmdCopy_SmallImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdUndo_LabelTitle_RESID L"\x5143\x306b\x623b\x3059" /* LabelTitle cmdUndo_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdUndo_TooltipTitle_RESID L"\x5143\x306b\x623b\x3059" /* TooltipTitle cmdUndo_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdUndo_TooltipDescription_RESID L"\x5143\x306b\x623b\x3059" /* TooltipDescription cmdUndo_TooltipDescription_RESID: (null) */
+END
+
+cmdUndo_SmallImages_RESID    BITMAP    "..\\TouchMind\\res\\UndoS.bmp" /* SmallImages cmdUndo_SmallImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdNew_LabelTitle_RESID L"\x65b0\x898f\x4f5c\x6210" /* LabelTitle cmdNew_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdNew_Keytip_RESID L"N" /* Keytip cmdNew_Keytip_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdNew_TooltipTitle_RESID L"\x65b0\x898f\x4f5c\x6210 (Ctrl+N)" /* TooltipTitle cmdNew_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdNew_TooltipDescription_RESID L"\x65b0\x3057\x3044\x30c9\x30ad\x30e5\x30e1\x30f3\x30c8\x306e\x4f5c\x6210" /* TooltipDescription cmdNew_TooltipDescription_RESID: (null) */
+END
+
+cmdNew_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\NewL.bmp" /* LargeImages cmdNew_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdOpenFile_LabelTitle_RESID L"\x958b\x304f" /* LabelTitle cmdOpenFile_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdOpenFile_LabelDescription_RESID L"\x30ed\x30fc\x30ab\x30eb\x30d5\x30a1\x30a4\x30eb\x3082\x3057\x304f\x306f\x30cd\x30c3\x30c8\x30ef\x30fc\x30af\x5171\x6709\x304b\x3089\x30c9\x30ad\x30e5\x30e1\x30f3\x30c8\x3092\x958b\x304f" /* LabelDescription cmdOpenFile_LabelDescription_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdOpenFile_Keytip_RESID L"O" /* Keytip cmdOpenFile_Keytip_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdOpenFile_TooltipTitle_RESID L"\x958b\x304f (Ctrl+O)" /* TooltipTitle cmdOpenFile_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdOpenFile_TooltipDescription_RESID L"\x30c9\x30ad\x30e5\x30e1\x30f3\x30c8\x3092\x958b\x304f" /* TooltipDescription cmdOpenFile_TooltipDescription_RESID: (null) */
+END
+
+cmdOpenFile_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\OpenFileL.bmp" /* LargeImages cmdOpenFile_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdOpenFreeMind_LabelTitle_RESID L"FreeMind\x5f62\x5f0f\x3092\x958b\x304f" /* LabelTitle cmdOpenFreeMind_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdOpenFreeMind_LabelDescription_RESID L"\x30ed\x30fc\x30ab\x30eb\x30d5\x30a1\x30a4\x30eb\x3082\x3057\x304f\x306f\x30cd\x30c3\x30c8\x30ef\x30fc\x30af\x5171\x6709\x304b\x3089FreeMind\x5f62\x5f0f\x3092\x958b\x304f" /* LabelDescription cmdOpenFreeMind_LabelDescription_RESID: (null) */
+END
+
+cmdOpenFreeMind_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\OpenFileL.bmp" /* LargeImages cmdOpenFreeMind_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdSave_LabelTitle_RESID L"\x4fdd\x5b58" /* LabelTitle cmdSave_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdSave_Keytip_RESID L"S" /* Keytip cmdSave_Keytip_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdSave_TooltipTitle_RESID L"\x4fdd\x5b58 (Ctrl+S)" /* TooltipTitle cmdSave_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdSave_TooltipDescription_RESID L"\x73fe\x5728\x306e\x30c9\x30ad\x30e5\x30e1\x30f3\x30c8\x306e\x4fdd\x5b58" /* TooltipDescription cmdSave_TooltipDescription_RESID: (null) */
+END
+
+cmdSave_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\SaveL.bmp" /* LargeImages cmdSave_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdSaveAs_LabelTitle_RESID L"\x540d\x524d\x3092\x4ed8\x3051\x3066\x4fdd\x5b58" /* LabelTitle cmdSaveAs_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdSaveAs_TooltipDescription_RESID L"\x73fe\x5728\x306e\x30c9\x30ad\x30e5\x30e1\x30f3\x30c8\x3092\x540d\x524d\x3092\x4ed8\x3051\x3066\x4fdd\x5b58" /* TooltipDescription cmdSaveAs_TooltipDescription_RESID: (null) */
+END
+
+cmdSaveAs_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\SaveAsL.bmp" /* LargeImages cmdSaveAs_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdPrint_LabelTitle_RESID L"\x5370\x5237" /* LabelTitle cmdPrint_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdPrint_LabelDescription_RESID L"\x73fe\x5728\x306e\x30c9\x30ad\x30e5\x30e1\x30f3\x30c8\x306e\x5370\x5237" /* LabelDescription cmdPrint_LabelDescription_RESID: (null) */
+END
+
+cmdPrint_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\PrintL.bmp" /* LargeImages cmdPrint_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdPrintSetup_LabelTitle_RESID L"\x5370\x5237\x8a2d\x5b9a" /* LabelTitle cmdPrintSetup_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdPrintSetup_LabelDescription_RESID L"\x5370\x5237\x30ec\x30a4\x30a2\x30a6\x30c8\x306a\x3069\x306e\x5370\x5237\x8a2d\x5b9a\x306e\x5909\x66f4" /* LabelDescription cmdPrintSetup_LabelDescription_RESID: (null) */
+END
+
+cmdPrintSetup_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\PrintL.bmp" /* LargeImages cmdPrintSetup_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdVersionInfo_LabelTitle_RESID L"\x30d0\x30fc\x30b8\x30e7\x30f3" /* LabelTitle cmdVersionInfo_LabelTitle_RESID: (null) */
+END
+
+cmdVersionInfo_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\TouchMindL.bmp" /* LargeImages cmdVersionInfo_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdExit_LabelTitle_RESID L"TouchMind\x306e\x7d42\x4e86" /* LabelTitle cmdExit_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdExit_Keytip_RESID L"X" /* Keytip cmdExit_Keytip_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdExit_TooltipDescription_RESID L"\x30a2\x30d7\x30ea\x30b1\x30fc\x30b7\x30e7\x30f3\x3092\x7d42\x4e86\x3057\x307e\x3059" /* TooltipDescription cmdExit_TooltipDescription_RESID: (null) */
+END
+
+cmdExit_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\ExitL.bmp" /* LargeImages cmdExit_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdGroupBasicOperationGroup_LabelTitle_RESID L"\x57fa\x672c\x64cd\x4f5c" /* LabelTitle cmdGroupBasicOperationGroup_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdEditNode_LabelTitle_RESID L"\x30c6\x30ad\x30b9\x30c8\x306e\x7de8\x96c6" /* LabelTitle cmdEditNode_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdEditNode_TooltipTitle_RESID L"\x30c6\x30ad\x30b9\x30c8\x306e\x7de8\x96c6" /* TooltipTitle cmdEditNode_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdEditNode_TooltipDescription_RESID L"\x30c6\x30ad\x30b9\x30c8\x306e\x7de8\x96c6" /* TooltipDescription cmdEditNode_TooltipDescription_RESID: (null) */
+END
+
+cmdEditNode_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\EditText64x64.bmp" /* LargeImages cmdEditNode_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdDeleteNode_LabelTitle_RESID L"\x30ce\x30fc\x30c9\x306e\x524a\x9664" /* LabelTitle cmdDeleteNode_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdDeleteNode_TooltipTitle_RESID L"\x30ce\x30fc\x30c9\x306e\x524a\x9664" /* TooltipTitle cmdDeleteNode_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdDeleteNode_TooltipDescription_RESID L"\x30ce\x30fc\x30c9\x306e\x524a\x9664" /* TooltipDescription cmdDeleteNode_TooltipDescription_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCreateChildNode_LabelTitle_RESID L"\x5b50\x30ce\x30fc\x30c9\x306e\x4f5c\x6210" /* LabelTitle cmdCreateChildNode_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCreateChildNode_TooltipTitle_RESID L"\x5b50\x30ce\x30fc\x30c9\x306e\x4f5c\x6210" /* TooltipTitle cmdCreateChildNode_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCreateChildNode_TooltipDescription_RESID L"\x5b50\x30ce\x30fc\x30c9\x306e\x4f5c\x6210" /* TooltipDescription cmdCreateChildNode_TooltipDescription_RESID: (null) */
+END
+
+cmdCreateChildNode_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\NewNode64x64.bmp" /* LargeImages cmdCreateChildNode_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdCreateLink_LabelTitle_RESID L"\x30ea\x30f3\x30af\x306e\x4f5c\x6210" /* LabelTitle cmdCreateLink_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCreateLink_TooltipTitle_RESID L"\x30ea\x30f3\x30af\x306e\x4f5c\x6210" /* TooltipTitle cmdCreateLink_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCreateLink_TooltipDescription_RESID L"\x30ea\x30f3\x30af\x306e\x4f5c\x6210" /* TooltipDescription cmdCreateLink_TooltipDescription_RESID: (null) */
+END
+
+cmdCreateLink_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\Link.bmp" /* LargeImages cmdCreateLink_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdDeleteLink_LabelTitle_RESID L"\x30ea\x30f3\x30af\x306e\x524a\x9664" /* LabelTitle cmdDeleteLink_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdDeleteLink_TooltipTitle_RESID L"\x30ea\x30f3\x30af\x306e\x524a\x9664" /* TooltipTitle cmdDeleteLink_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdDeleteLink_TooltipDescription_RESID L"\x30ea\x30f3\x30af\x306e\x524a\x9664" /* TooltipDescription cmdDeleteLink_TooltipDescription_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdExpandNodes_LabelTitle_RESID L"\x5b50\x30ce\x30fc\x30c9\x306e\x5c55\x958b" /* LabelTitle cmdExpandNodes_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCollapseNodes_LabelTitle_RESID L"\x5b50\x30ce\x30fc\x30c9\x306e\x6298\x308a\x305f\x305f\x307f" /* LabelTitle cmdCollapseNodes_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdFontControlGroup_LabelTitle_RESID L"\x30d5\x30a9\x30f3\x30c8" /* LabelTitle cmdFontControlGroup_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdFontControl_Keytip_RESID L"F" /* Keytip cmdFontControl_Keytip_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdBackgroundColorGroup_LabelTitle_RESID L"\x30ab\x30e9\x30fc" /* LabelTitle cmdBackgroundColorGroup_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdBackgroundColor_LabelTitle_RESID L"\x80cc\x666f\x8272" /* LabelTitle cmdBackgroundColor_LabelTitle_RESID: (null) */
+END
+
+cmdBackgroundColor_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\BackgroundColor.bmp" /* LargeImages cmdBackgroundColor_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdNodeShape_LabelTitle_RESID L"\x8981\x7d20\x306e\x5f62\x72b6" /* LabelTitle cmdNodeShape_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdLineAttributeGroup_LabelTitle_RESID L"\x30e9\x30a4\x30f3\x5c5e\x6027" /* LabelTitle cmdLineAttributeGroup_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdLineColor_LabelTitle_RESID L"\x8272" /* LabelTitle cmdLineColor_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdLineWidth_LabelTitle_RESID L"\x5e45" /* LabelTitle cmdLineWidth_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdLineEdgeStyle_LabelTitle_RESID L"\x4e21\x7aef\x5f62\x72b6" /* LabelTitle cmdLineEdgeStyle_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdLineStyle_LabelTitle_RESID L"\x7dda\x7a2e" /* LabelTitle cmdLineStyle_LabelTitle_RESID: (null) */
+END
+
+APPLICATION_RIBBON    UIFILE    "ribbonmarkup.bml"

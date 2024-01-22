@@ -1,0 +1,360 @@
+// ******************************************************************************
+// * This is an automatically generated file containing the ribbon resource for *
+// * your application.                                                          *
+// ******************************************************************************
+
+#include ".\ribbonres.h"
+
+STRINGTABLE 
+BEGIN
+    cmdTabHome_LabelTitle_RESID L"Home" /* LabelTitle cmdTabHome_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdGroupClipboard_LabelTitle_RESID L"Clipboard" /* LabelTitle cmdGroupClipboard_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdPaste_LabelTitle_RESID L"Paste" /* LabelTitle cmdPaste_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdPaste_TooltipTitle_RESID L"Paste" /* TooltipTitle cmdPaste_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdPaste_TooltipDescription_RESID L"Paste" /* TooltipDescription cmdPaste_TooltipDescription_RESID: (null) */
+END
+
+cmdPaste_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\Paste.bmp" /* LargeImages cmdPaste_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdCut_LabelTitle_RESID L"Cut" /* LabelTitle cmdCut_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCut_TooltipTitle_RESID L"Cut" /* TooltipTitle cmdCut_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCut_TooltipDescription_RESID L"Cut" /* TooltipDescription cmdCut_TooltipDescription_RESID: (null) */
+END
+
+cmdCut_SmallImages_RESID    BITMAP    "..\\TouchMind\\res\\Cut.bmp" /* SmallImages cmdCut_SmallImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdCopy_LabelTitle_RESID L"Copy" /* LabelTitle cmdCopy_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCopy_TooltipTitle_RESID L"Copy" /* TooltipTitle cmdCopy_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCopy_TooltipDescription_RESID L"Copy" /* TooltipDescription cmdCopy_TooltipDescription_RESID: (null) */
+END
+
+cmdCopy_SmallImages_RESID    BITMAP    "..\\TouchMind\\res\\Copy.bmp" /* SmallImages cmdCopy_SmallImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdUndo_LabelTitle_RESID L"Undo" /* LabelTitle cmdUndo_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdUndo_TooltipTitle_RESID L"Undo" /* TooltipTitle cmdUndo_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdUndo_TooltipDescription_RESID L"Undo" /* TooltipDescription cmdUndo_TooltipDescription_RESID: (null) */
+END
+
+cmdUndo_SmallImages_RESID    BITMAP    "..\\TouchMind\\res\\UndoS.bmp" /* SmallImages cmdUndo_SmallImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdNew_LabelTitle_RESID L"New document" /* LabelTitle cmdNew_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdNew_Keytip_RESID L"N" /* Keytip cmdNew_Keytip_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdNew_TooltipTitle_RESID L"New (Ctrl+N)" /* TooltipTitle cmdNew_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdNew_TooltipDescription_RESID L"Create a new document." /* TooltipDescription cmdNew_TooltipDescription_RESID: (null) */
+END
+
+cmdNew_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\NewL.bmp" /* LargeImages cmdNew_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdOpenFile_LabelTitle_RESID L"Open File" /* LabelTitle cmdOpenFile_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdOpenFile_LabelDescription_RESID L"Open a file from the local system or network share." /* LabelDescription cmdOpenFile_LabelDescription_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdOpenFile_Keytip_RESID L"O" /* Keytip cmdOpenFile_Keytip_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdOpenFile_TooltipTitle_RESID L"Open (Ctrl+O)" /* TooltipTitle cmdOpenFile_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdOpenFile_TooltipDescription_RESID L"Open a document." /* TooltipDescription cmdOpenFile_TooltipDescription_RESID: (null) */
+END
+
+cmdOpenFile_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\OpenFileL.bmp" /* LargeImages cmdOpenFile_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdOpenFreeMind_LabelTitle_RESID L"Open FreeMind" /* LabelTitle cmdOpenFreeMind_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdOpenFreeMind_LabelDescription_RESID L"Open a FreeMind file from the local system or network share." /* LabelDescription cmdOpenFreeMind_LabelDescription_RESID: (null) */
+END
+
+cmdOpenFreeMind_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\OpenFileL.bmp" /* LargeImages cmdOpenFreeMind_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdSave_LabelTitle_RESID L"Save" /* LabelTitle cmdSave_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdSave_Keytip_RESID L"S" /* Keytip cmdSave_Keytip_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdSave_TooltipTitle_RESID L"Save (Ctrl+S)" /* TooltipTitle cmdSave_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdSave_TooltipDescription_RESID L"Save the current document." /* TooltipDescription cmdSave_TooltipDescription_RESID: (null) */
+END
+
+cmdSave_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\SaveL.bmp" /* LargeImages cmdSave_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdSaveAs_LabelTitle_RESID L"Save As" /* LabelTitle cmdSaveAs_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdSaveAs_TooltipDescription_RESID L"Save the current document with a new name." /* TooltipDescription cmdSaveAs_TooltipDescription_RESID: (null) */
+END
+
+cmdSaveAs_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\SaveAsL.bmp" /* LargeImages cmdSaveAs_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdPrint_LabelTitle_RESID L"Print" /* LabelTitle cmdPrint_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdPrint_LabelDescription_RESID L"Send the document to the currently selected default printer." /* LabelDescription cmdPrint_LabelDescription_RESID: (null) */
+END
+
+cmdPrint_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\PrintL.bmp" /* LargeImages cmdPrint_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdPrintSetup_LabelTitle_RESID L"Print Setup" /* LabelTitle cmdPrintSetup_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdPrintSetup_LabelDescription_RESID L"Change the page layout or other printer settings." /* LabelDescription cmdPrintSetup_LabelDescription_RESID: (null) */
+END
+
+cmdPrintSetup_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\PrintL.bmp" /* LargeImages cmdPrintSetup_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdVersionInfo_LabelTitle_RESID L"Version Info" /* LabelTitle cmdVersionInfo_LabelTitle_RESID: (null) */
+END
+
+cmdVersionInfo_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\TouchMindL.bmp" /* LargeImages cmdVersionInfo_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdExit_LabelTitle_RESID L"Exit TouchMind" /* LabelTitle cmdExit_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdExit_Keytip_RESID L"X" /* Keytip cmdExit_Keytip_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdExit_TooltipDescription_RESID L"Exit the application." /* TooltipDescription cmdExit_TooltipDescription_RESID: (null) */
+END
+
+cmdExit_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\ExitL.bmp" /* LargeImages cmdExit_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdGroupBasicOperationGroup_LabelTitle_RESID L"Basic Operations" /* LabelTitle cmdGroupBasicOperationGroup_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdEditNode_LabelTitle_RESID L"Edit text" /* LabelTitle cmdEditNode_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdEditNode_TooltipTitle_RESID L"Edit text" /* TooltipTitle cmdEditNode_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdEditNode_TooltipDescription_RESID L"Edit text" /* TooltipDescription cmdEditNode_TooltipDescription_RESID: (null) */
+END
+
+cmdEditNode_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\EditText64x64.bmp" /* LargeImages cmdEditNode_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdDeleteNode_LabelTitle_RESID L"Delete this node" /* LabelTitle cmdDeleteNode_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdDeleteNode_TooltipTitle_RESID L"Delete this node" /* TooltipTitle cmdDeleteNode_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdDeleteNode_TooltipDescription_RESID L"Delete this node" /* TooltipDescription cmdDeleteNode_TooltipDescription_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCreateChildNode_LabelTitle_RESID L"Create a child node" /* LabelTitle cmdCreateChildNode_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCreateChildNode_TooltipTitle_RESID L"Create a child node" /* TooltipTitle cmdCreateChildNode_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCreateChildNode_TooltipDescription_RESID L"Create a child node" /* TooltipDescription cmdCreateChildNode_TooltipDescription_RESID: (null) */
+END
+
+cmdCreateChildNode_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\NewNode64x64.bmp" /* LargeImages cmdCreateChildNode_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdCreateLink_LabelTitle_RESID L"Create a link" /* LabelTitle cmdCreateLink_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCreateLink_TooltipTitle_RESID L"Create a link" /* TooltipTitle cmdCreateLink_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCreateLink_TooltipDescription_RESID L"Create a link" /* TooltipDescription cmdCreateLink_TooltipDescription_RESID: (null) */
+END
+
+cmdCreateLink_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\Link.bmp" /* LargeImages cmdCreateLink_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdDeleteLink_LabelTitle_RESID L"Delete this link" /* LabelTitle cmdDeleteLink_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdDeleteLink_TooltipTitle_RESID L"Delete this link" /* TooltipTitle cmdDeleteLink_TooltipTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdDeleteLink_TooltipDescription_RESID L"Delete this link" /* TooltipDescription cmdDeleteLink_TooltipDescription_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdExpandNodes_LabelTitle_RESID L"Expand nodes" /* LabelTitle cmdExpandNodes_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdCollapseNodes_LabelTitle_RESID L"Collapse nodes" /* LabelTitle cmdCollapseNodes_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdFontControlGroup_LabelTitle_RESID L"Font" /* LabelTitle cmdFontControlGroup_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdFontControl_Keytip_RESID L"F" /* Keytip cmdFontControl_Keytip_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdBackgroundColorGroup_LabelTitle_RESID L"Node" /* LabelTitle cmdBackgroundColorGroup_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdBackgroundColor_LabelTitle_RESID L"Background Color" /* LabelTitle cmdBackgroundColor_LabelTitle_RESID: (null) */
+END
+
+cmdBackgroundColor_LargeImages_RESID    BITMAP    "..\\TouchMind\\res\\BackgroundColor.bmp" /* LargeImages cmdBackgroundColor_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    cmdNodeShape_LabelTitle_RESID L"Shape" /* LabelTitle cmdNodeShape_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdLineAttributeGroup_LabelTitle_RESID L"Stroke Attributes" /* LabelTitle cmdLineAttributeGroup_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdLineColor_LabelTitle_RESID L"Color" /* LabelTitle cmdLineColor_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdLineWidth_LabelTitle_RESID L"Width" /* LabelTitle cmdLineWidth_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdLineEdgeStyle_LabelTitle_RESID L"Edge Style" /* LabelTitle cmdLineEdgeStyle_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdLineStyle_LabelTitle_RESID L"Style" /* LabelTitle cmdLineStyle_LabelTitle_RESID: (null) */
+END
+
+APPLICATION_RIBBON    UIFILE    "ribbonmarkup.bml"
