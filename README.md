@@ -1,2 +1,3 @@
 # win32cmake
-Win32 Application with CMake
+
+Generate Win32 Application for Visual Studio with Cmake.
