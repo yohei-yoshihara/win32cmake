@@ -357,4 +357,4 @@ BEGIN
     cmdLineStyle_LabelTitle_RESID L"Style" /* LabelTitle cmdLineStyle_LabelTitle_RESID: (null) */
 END
 
-APPLICATION_RIBBON    UIFILE    "C:/Users/yy201/source/repos/win32cmake/src/ribbonmarkup.bml"
+APPLICATION_RIBBON    UIFILE    "C:/Users/yy201/win_projects/win32cmake/src/ribbonmarkup.bml"

@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.27 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.28 FATAL_ERROR)
 project(win32cmake LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 23)
 add_compile_options(/w44996)
@@ -36,18 +36,20 @@ target_link_options(win32cmake PRIVATE "/DYNAMICBASE:NO")
 target_link_options(win32cmake PRIVATE "/DELAYLOAD:user32.dll")
 target_link_options(win32cmake PRIVATE "/DELAYLOAD:shell32.dll")
 target_link_options(win32cmake PRIVATE "/DELAYLOAD:uxtheme.dll")
-target_link_options(win32cmake PRIVATE "uuid.lib" "propsys.lib" "kernel32.lib" "user32.lib" "gdi32.lib" "winspool.lib" "comdlg32.lib" "advapi32.lib" "shell32.lib" "ole32.lib" "oleaut32.lib" "odbc32.lib" "odbccp32.lib" "uxtheme.lib")
+target_link_options(win32cmake PRIVATE 
+  "uuid.lib" "propsys.lib" "kernel32.lib" "user32.lib" "gdi32.lib" 
+  "winspool.lib" "comdlg32.lib" "advapi32.lib" "shell32.lib" "ole32.lib" 
+  "oleaut32.lib" "odbc32.lib" "odbccp32.lib" "uxtheme.lib" "delayimp.lib")
 
 add_custom_command(
   PRE_BUILD
   OUTPUT  ${CMAKE_CURRENT_SOURCE_DIR}/src/ribbonmarkup.bml 
           ${CMAKE_CURRENT_SOURCE_DIR}/src/ribbonres.rc 
           ${CMAKE_CURRENT_SOURCE_DIR}/src/ribbonres.h
-  COMMAND UICC ribbonmarkup.xml 
+  COMMAND "$ENV{WindowsSdkVerBinPath}/x86/UICC" ribbonmarkup.xml 
             ${CMAKE_CURRENT_SOURCE_DIR}/src/ribbonmarkup.bml 
             /header:${CMAKE_CURRENT_SOURCE_DIR}/src/ribbonres.h 
             /res:${CMAKE_CURRENT_SOURCE_DIR}/src/ribbonres.rc
   DEPENDS src/ribbonmarkup.xml
   WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/src
 )
-
